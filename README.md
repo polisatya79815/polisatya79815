@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<h1> Projects</h1>
+<h1>Certifications</h1>
+<h1> Education</h1>
 <!---
 polisatya79815/polisatya79815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
