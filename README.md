@@ -1,5 +1,5 @@
-- 👋 Hi, I am Sathya Narayana Reddy Poli
-- 👀 I’m passonate at Cybersecurity and CloudSecurity
+<h1>Hi, I am Sathya Narayana Reddy Poli<h1>
+<h1>I’m passonate at Cybersecurity and CloudSecurity<h1>
 <h1> Projects</h1>
 
 <h1>Certifications</h1>
